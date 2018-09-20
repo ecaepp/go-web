@@ -10,3 +10,7 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+*/gorilla101
+chronograf-v1
+*/DS_Store
